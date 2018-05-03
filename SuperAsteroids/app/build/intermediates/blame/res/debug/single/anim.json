@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/slide_in_up.xml",
+        "source": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/src/main/res/anim/slide_in_up.xml"
+    },
+    {
+        "merged": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/williamjones/.android/build-cache/3c8d6b6200b6a675481c485f2ae128505bc938e8/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/williamjones/.android/build-cache/3c8d6b6200b6a675481c485f2ae128505bc938e8/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/slide_out_down.xml",
+        "source": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/src/main/res/anim/slide_out_down.xml"
+    },
+    {
+        "merged": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/williamjones/.android/build-cache/3c8d6b6200b6a675481c485f2ae128505bc938e8/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/williamjones/.android/build-cache/3c8d6b6200b6a675481c485f2ae128505bc938e8/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/williamjones/.android/build-cache/3c8d6b6200b6a675481c485f2ae128505bc938e8/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/slide_out_left.xml",
+        "source": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/src/main/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/williamjones/.android/build-cache/3c8d6b6200b6a675481c485f2ae128505bc938e8/output/res/anim/abc_fade_in.xml"
+    }
+]

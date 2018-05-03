@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/build/intermediates/res/merged/debug/menu/menu_import.xml",
+        "source": "/Users/williamjones/Desktop/CS Stuff/SuperAsteroids/app/src/main/res/menu/menu_import.xml"
+    }
+]
